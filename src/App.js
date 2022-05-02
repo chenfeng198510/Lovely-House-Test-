@@ -8,7 +8,7 @@ function App() {
       <h1 className="cardh1">My Card
       </h1>
       <section className="card">
-      <img className="card-image" src={cardimages} />
+      <img className="card-image" src={cardimages} alt="Batman"/>
       <h5 className="card-title">"I know the card is ugly.<br></br>
       However, I give up to adjust <br></br>color and sytle,<br></br>
        because I am a lazy man. <br></br>
