@@ -69,6 +69,7 @@ nav .nav-links {
   padding: 40px;
   width: 30%;
   transform: translateX(0px);
+  transition: 0.5s ease-in-out;
 }
 
 nav .nav-links li {
