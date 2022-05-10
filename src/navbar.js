@@ -7,7 +7,6 @@ function Navbar() {
 <nav>
     <div className="logo">Lovely House</div>
     <ul className="nav-links" style={{transform: open ? "translateX (0px)" : "translateX(100)"}}> 
-        <li><a href="#">Home</a></li>
         <li>Product</li>
         <li>About us</li>
         <li>Contact</li>
